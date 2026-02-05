@@ -1,0 +1,30 @@
+Privacy Policy
+
+TextPadPro respects your privacy.
+
+Data Collection
+TextPadPro does not collect, store, or transmit any personal data.
+The app does not use analytics, tracking, advertising frameworks, or third-party SDKs.
+
+Local Processing
+All text snippets and settings are stored locally on your device.
+TextPadPro does not upload user content to external servers.
+
+Network Communication
+TextPadPro may accept local network connections (Bonjour/TCP) from its companion
+iOS/iPadOS app, TextPadRemote, to enable remote editing and paste functionality.
+All communication occurs on the local network only and is not transmitted over the internet.
+
+Accessibility
+TextPadPro requires macOS Accessibility permission solely to paste text into the
+frontmost application at the user’s request.
+
+Third Parties
+TextPadPro does not share data with third parties.
+
+Contact
+If you have any questions about this Privacy Policy, please contact:
+
+Email: keith@YOURDOMAIN.com
+
+© 2026 Keith Tunney
