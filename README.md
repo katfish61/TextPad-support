@@ -6,7 +6,7 @@ over the local network.
 Support
 If you need help, have questions, or want to report a bug, please contact:
 
-Email: keith@YOURDOMAIN.com
+Email: keithtunney@me.com
 
 Accessibility
 TextPadPro requires macOS Accessibility permission to paste text into the frontmost app.
